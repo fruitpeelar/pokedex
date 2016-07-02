@@ -1,0 +1,8 @@
+nbproject
+*~
+tests/phpunit.xml
+build.properties
+build/
+dist/
+vendor/
+.idea/
